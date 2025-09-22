@@ -42,19 +42,26 @@ Penultimate year student at Australian National University, spent four years des
 
 <div align="center">
 <h2>Technologies Skills 🛠️</h2>
-	<img src="https://img.shields.io/badge/C/C++-%23323330.svg?style=for-the-badge&logo=cplusplus&logoColor=5599ff" alt="C">
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
-  <img src="https://img.shields.io/badge/STM32-4285F4?style=for-the-badge&logo=stmicroelectronics&logoColor=white" alt="STM32">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
-	<img src="https://img.shields.io/badge/VS_Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
+	<img src="https://img.shields.io/badge/altium designer-2B2B2B.svg?style=for-the-badge&logo=altiumdesigner&logoColor=D5BD81" alt="Altium Designer">
+  	<img src="https://img.shields.io/badge/C-283593.svg?style=for-the-badge&logo=c&logoColor=white" alt="C">
+ 	<img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
+  	<img src="https://img.shields.io/badge/STM32-4285F4?style=for-the-badge&logo=stmicroelectronics&logoColor=white" alt="STM32">
+	<img src="https://img.shields.io/badge/AMD FPGA-bd0000?style=for-the-badge&logo=amd&logoColor=black" alt="AMD FPGA">
+	<img src="https://img.shields.io/badge/ESP32-d12f24?style=for-the-badge&logo=espressif&logoColor=black" alt="ESP32">
+	<img src="https://img.shields.io/badge/Arduino-3186a0?style=for-the-badge&logo=arduino&logoColor=black" alt="Arduino">
+	<img src="https://img.shields.io/badge/Vivado-bd0000?style=for-the-badge&logo=amd&logoColor=black" alt="Vivado">
+  	<img src="https://img.shields.io/badge/SolidWorks-black.svg?style=for-the-badge&logo=dassaultsystemes&logoColor=DA291C" alt="SolidWorks">
+	<img src="https://img.shields.io/badge/LTSpice-black?style=for-the-badge&logo=ltspice&logoColor=630903" alt="LTSpice">
+  	<img src="https://img.shields.io/badge/VS_Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
 	<img src="https://img.shields.io/badge/Windows%20Terminal-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white" alt="Windows Terminal">
 	<img src="https://img.shields.io/badge/Ubuntu-%23E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu">
 	<img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
+ 	<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
  	<img src="https://img.shields.io/badge/Git-%23E84E31.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
 	<img src="https://img.shields.io/badge/GitHub-%23171717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
  	<img src="https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash Scripting">
-  <img src="https://img.shields.io/badge/postgresql-4479A1.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/influxdb-5EE4E4.svg?style=for-the-badge&logo=influxdb&logoColor=white" alt="InfluxDB">
+  	<img src="https://img.shields.io/badge/postgresql-4479A1.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  	<img src="https://img.shields.io/badge/influxdb-5EE4E4.svg?style=for-the-badge&logo=influxdb&logoColor=white" alt="InfluxDB">
 
 </div>
 
