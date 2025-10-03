@@ -16,7 +16,7 @@ Penultimate year student at Australian National University, spent four years des
 
 | 🎓 Education | 📈 Result | 🎉 Completion |
 |:-------------|:------------:|---------:|
-| **B. Engineering (Research & Development) (Honours) / B. Science** | *6.875 / 7* GPA | *Penultimate Year* |
+| **B. Engineering (Research & Development) (Honours) / B. Science** | *6.703 / 7* GPA | *Penultimate Year* |
 | **B. Studies in Engineering** | High Distinction | *2020-2021* |
 | **Senior Secondary + Subject Prize for Engineering** | *99.15* ATAR | *2020-2021* |
 
